@@ -1,1 +1,1 @@
-# my-repo
+# GitHub Actionの練習用リポジトリ
